@@ -33,3 +33,20 @@ Fibonacci serisinde her sayı, kendisinden önce gelen iki sayının toplamıdı
 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, …
 
 Bu serinin dört milyondan küçük tüm çift sayılarının toplamını bulunuz.
+<br/><br/>
+
+### Problem 3
+
+* [ENG]
+
+The prime factors of 13195 are 5, 7, 13 and 29.
+
+What is the largest prime factor of the number 600851475143 ?
+
+* [TR]
+
+13195'in asal çarpanları 5, 7, 13 ve 29'dur.
+
+600851475143 sayısının en büyük asal çarpanı nedir?
+
+
