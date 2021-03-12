@@ -15,7 +15,6 @@ function palindrome() {
             dizi[2] = (n % 1000) / 100;
             dizi[3] = (n % 10000) / 1000;
             if (dizi[2] === dizi[3]) {
-            //  console.log(n);
               return 0;
             }
           }
